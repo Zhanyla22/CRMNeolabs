@@ -1,4 +1,4 @@
-# CRMNeolabs
+# CRM Neolabs
 This project is CRM for NEOLABS course providing organization in Bishkek.
 
 
